@@ -1,0 +1,4 @@
+# Test: SINGLE falls back to secondary when primary is empty
+GT4500,0,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
